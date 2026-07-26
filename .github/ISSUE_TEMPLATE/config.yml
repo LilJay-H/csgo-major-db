@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 游戏本体问题（弗一把）
+    url: https://github.com/shnlfriberg/csgofriberg/issues
+    about: 游戏功能、界面或服务相关的问题请到主仓库反馈,此仓库只负责选手数据。

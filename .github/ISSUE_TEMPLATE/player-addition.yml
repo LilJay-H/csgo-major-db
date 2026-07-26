@@ -1,0 +1,84 @@
+name: 新增选手
+description: 提议向 players.json 添加一名缺失的 CS Major 选手
+title: '[新增] '
+labels: [data, addition]
+body:
+  - type: input
+    id: nickname
+    attributes:
+      label: 选手昵称
+      placeholder: donk
+    validations:
+      required: true
+  - type: input
+    id: nationality
+    attributes:
+      label: 国籍
+      placeholder: 俄罗斯
+    validations:
+      required: true
+  - type: dropdown
+    id: region
+    attributes:
+      label: 赛区
+      options:
+        - 欧洲
+        - 独联体
+        - 北美洲
+        - 南美洲
+        - 亚太
+        - 大洋洲
+        - 非洲与以色列
+    validations:
+      required: true
+  - type: input
+    id: team
+    attributes:
+      label: 当前战队
+      description: 无合同时填「未签约/已下放」
+      placeholder: Team Spirit
+    validations:
+      required: true
+  - type: input
+    id: age
+    attributes:
+      label: 年龄
+      description: 10-100 的整数
+      placeholder: '18'
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: 位置
+      options:
+        - Rifler
+        - AWPer
+        - Coach
+    validations:
+      required: true
+  - type: input
+    id: majors
+    attributes:
+      label: Major 冠军数 / 出场数
+      placeholder: 1 / 3
+    validations:
+      required: true
+  - type: dropdown
+    id: difficulties
+    attributes:
+      label: 难度归属
+      description: easy 面向知名度较高的选手
+      options:
+        - normal
+        - normal + easy
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 信息来源
+      description: 佐证链接（HLTV 选手页、Liquipedia 等）
+      placeholder: https://www.hltv.org/player/19230/donk
+    validations:
+      required: true

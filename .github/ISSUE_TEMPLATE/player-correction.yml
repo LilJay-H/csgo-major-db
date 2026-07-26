@@ -1,0 +1,45 @@
+name: 选手数据纠错
+description: 报告 players.json 中某位选手的错误信息（年龄、战队、国籍、Major 数据等）
+title: '[纠错] '
+labels: [data, correction]
+body:
+  - type: input
+    id: nickname
+    attributes:
+      label: 选手昵称
+      description: players.json 中的 nickname（区分大小写）
+      placeholder: s1mple
+    validations:
+      required: true
+  - type: checkboxes
+    id: fields
+    attributes:
+      label: 有误的字段
+      options:
+        - label: nationality（国籍）
+        - label: region（赛区）
+        - label: team（战队）
+        - label: age（年龄）
+        - label: role（位置）
+        - label: major_championships（Major 冠军数）
+        - label: major_appearances（Major 出场数）
+        - label: is_active（现役状态）
+        - label: difficulties（难度归属）
+  - type: textarea
+    id: correction
+    attributes:
+      label: 当前值与正确值
+      description: 逐项写明"当前值 → 正确值"
+      placeholder: |
+        team: NAVI → Falcons
+        age: 27 → 28
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 信息来源
+      description: 佐证链接（HLTV 选手页、Liquipedia 等）
+      placeholder: https://www.hltv.org/player/7998/s1mple
+    validations:
+      required: true
