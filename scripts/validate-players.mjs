@@ -9,7 +9,7 @@
 import { readFileSync } from 'node:fs';
 
 const ROLES = ['Rifler', 'AWPer', 'Coach'];
-const KNOWN_DIFFICULTIES = ['easy', 'normal'];
+const KNOWN_DIFFICULTIES = ['beginner', 'easy', 'normal'];
 const IMPORT_BATCH_LIMIT = 1000;
 
 const file = process.argv[2] ?? 'players.json';

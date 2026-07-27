@@ -21,7 +21,7 @@ if (!dumpPath) {
   process.exit(1);
 }
 
-const DIFFICULTY_ORDER = ['normal', 'easy'];
+const DIFFICULTY_ORDER = ['normal', 'easy', 'beginner'];
 
 function decodeCopyValue(raw) {
   if (raw === '\\N') return null;

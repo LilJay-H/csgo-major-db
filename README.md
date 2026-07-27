@@ -26,4 +26,4 @@ node scripts/extract-players.mjs <postgres.dump> players.json
 node scripts/validate-players.mjs players.json
 ```
 
-校验规则与 csgofriberg 服务端 `playerImportSchema` 一致：nickname 全局唯一（1-64 字符）、`age` 为 10-100 的整数、`role` ∈ Rifler/AWPer/Coach、`difficulties` ∈ easy/normal 且不重复等。GitHub Actions 会在每次 push / PR 时自动运行该校验。
+校验规则与 csgofriberg 服务端 `playerImportSchema` 一致：nickname 全局唯一（1-64 字符）、`age` 为 10-100 的整数、`role` ∈ Rifler/AWPer/Coach、`difficulties` ∈ beginner/easy/normal 且不重复等。GitHub Actions 会在每次 push / PR 时自动运行该校验。

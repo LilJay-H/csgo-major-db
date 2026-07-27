@@ -26,7 +26,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -148,7 +149,8 @@
     "major_appearances": 12,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -179,7 +181,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -209,7 +212,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -240,7 +245,8 @@
     "major_appearances": 10,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -256,7 +262,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -288,7 +295,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -319,7 +327,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -334,7 +343,9 @@
     "major_championships": 0,
     "major_appearances": 7,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -364,7 +375,9 @@
     "major_championships": 0,
     "major_appearances": 3,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -424,7 +437,9 @@
     "major_championships": 0,
     "major_appearances": 2,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -440,7 +455,8 @@
     "major_appearances": 22,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -488,7 +504,8 @@
     "major_appearances": 10,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -549,7 +566,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -565,7 +583,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -581,7 +600,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -597,7 +617,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -613,7 +634,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -659,7 +681,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -675,7 +699,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -691,7 +716,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -737,7 +763,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -768,7 +795,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -814,7 +842,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -845,7 +874,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -861,7 +891,8 @@
     "major_appearances": 8,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -877,7 +908,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -893,7 +925,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -940,7 +973,8 @@
     "major_appearances": 10,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -956,7 +990,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -972,7 +1007,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1004,7 +1040,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1020,7 +1057,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1036,7 +1074,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1099,7 +1138,8 @@
     "major_appearances": 13,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1115,7 +1155,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1131,7 +1172,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1147,7 +1189,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1163,7 +1206,8 @@
     "major_appearances": 8,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1195,7 +1239,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1211,7 +1256,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1304,7 +1350,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1320,7 +1367,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1336,7 +1384,8 @@
     "major_appearances": 11,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1352,7 +1401,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1368,7 +1418,8 @@
     "major_appearances": 10,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -1384,7 +1435,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1400,7 +1452,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1431,7 +1484,8 @@
     "major_appearances": 11,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1462,7 +1516,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1478,7 +1533,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1524,7 +1580,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1569,7 +1626,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1585,7 +1644,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1601,7 +1661,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1617,7 +1678,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1633,7 +1695,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1694,7 +1757,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -1740,7 +1804,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1756,7 +1821,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1786,7 +1852,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1924,7 +1992,8 @@
     "major_appearances": 17,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -1955,7 +2024,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -1986,7 +2056,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2002,7 +2073,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2108,7 +2180,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2124,7 +2198,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2140,7 +2215,8 @@
     "major_appearances": 11,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -2186,7 +2262,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2202,7 +2279,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2233,7 +2311,8 @@
     "major_appearances": 18,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -2264,7 +2343,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2280,7 +2361,8 @@
     "major_appearances": 13,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -2296,7 +2378,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2327,7 +2410,8 @@
     "major_appearances": 13,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2343,7 +2427,8 @@
     "major_appearances": 17,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2374,7 +2459,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2420,7 +2506,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2451,7 +2538,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -2467,7 +2555,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2483,7 +2572,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2545,7 +2635,8 @@
     "major_appearances": 12,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -2592,7 +2683,8 @@
     "major_appearances": 19,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2608,7 +2700,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2671,7 +2764,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2687,7 +2781,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2733,7 +2828,8 @@
     "major_appearances": 14,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2763,7 +2859,9 @@
     "major_championships": 1,
     "major_appearances": 3,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -2794,7 +2892,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2810,7 +2909,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2826,7 +2926,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2857,7 +2958,9 @@
     "major_championships": 0,
     "major_appearances": 4,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2873,7 +2976,8 @@
     "major_appearances": 14,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -2967,7 +3071,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -2983,7 +3088,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -3014,7 +3120,8 @@
     "major_appearances": 8,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3105,7 +3212,8 @@
     "major_appearances": 12,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -3120,7 +3228,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3136,7 +3246,8 @@
     "major_appearances": 14,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3212,7 +3323,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3243,7 +3355,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3259,7 +3372,8 @@
     "major_appearances": 8,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3290,7 +3404,8 @@
     "major_appearances": 14,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -3322,7 +3437,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3338,7 +3454,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3369,7 +3486,8 @@
     "major_appearances": 11,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -3429,7 +3547,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3490,7 +3610,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3506,7 +3627,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3537,7 +3659,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3569,7 +3692,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3585,7 +3709,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3616,7 +3741,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3647,7 +3773,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3663,7 +3790,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3679,7 +3807,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3725,7 +3854,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3741,7 +3871,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3757,7 +3888,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3804,7 +3936,8 @@
     "major_appearances": 8,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3820,7 +3953,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3836,7 +3970,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3899,7 +4034,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3915,7 +4051,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3931,7 +4068,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3947,7 +4085,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3963,7 +4102,8 @@
     "major_appearances": 10,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -3994,7 +4134,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4025,7 +4166,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4041,7 +4183,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4057,7 +4200,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4089,7 +4233,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4105,7 +4250,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4136,7 +4282,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4152,7 +4299,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4168,7 +4316,8 @@
     "major_appearances": 11,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4184,7 +4333,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4245,7 +4395,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4276,7 +4427,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4322,7 +4474,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4353,7 +4506,8 @@
     "major_appearances": 14,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4414,7 +4568,8 @@
     "major_appearances": 22,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4430,7 +4585,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4446,7 +4602,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4462,7 +4619,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4508,7 +4666,8 @@
     "major_appearances": 14,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -4539,7 +4698,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4585,7 +4745,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4661,7 +4822,9 @@
     "major_championships": 1,
     "major_appearances": 7,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4677,7 +4840,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4738,7 +4902,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -4754,7 +4919,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4816,7 +4982,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4832,7 +4999,8 @@
     "major_appearances": 18,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4878,7 +5046,8 @@
     "major_appearances": 11,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4909,7 +5078,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4940,7 +5110,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4972,7 +5143,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -4988,7 +5160,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5004,7 +5177,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5035,7 +5209,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5066,7 +5241,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5082,7 +5258,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5097,7 +5274,9 @@
     "major_championships": 0,
     "major_appearances": 2,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5158,7 +5337,8 @@
     "major_appearances": 8,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5174,7 +5354,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5205,7 +5386,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -5236,7 +5418,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5266,7 +5449,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5298,7 +5483,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5329,7 +5515,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5345,7 +5532,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5361,7 +5549,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5377,7 +5566,8 @@
     "major_appearances": 11,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5393,7 +5583,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5409,7 +5600,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5440,7 +5632,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5456,7 +5649,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5472,7 +5666,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5488,7 +5683,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5534,7 +5730,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5550,7 +5747,8 @@
     "major_appearances": 12,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -5566,7 +5764,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5582,7 +5781,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5597,7 +5797,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5613,7 +5815,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5628,7 +5831,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5644,7 +5849,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5690,7 +5896,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5706,7 +5913,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5751,7 +5959,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5797,7 +6007,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5829,7 +6040,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5845,7 +6057,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5892,7 +6105,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5923,7 +6137,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5939,7 +6154,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5955,7 +6171,8 @@
     "major_appearances": 10,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5971,7 +6188,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -5987,7 +6205,8 @@
     "major_appearances": 14,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6003,7 +6222,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6050,7 +6270,8 @@
     "major_appearances": 14,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6096,7 +6317,8 @@
     "major_appearances": 14,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6127,7 +6349,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6143,7 +6366,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6175,7 +6399,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6236,7 +6461,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6252,7 +6478,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6299,7 +6526,8 @@
     "major_appearances": 17,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6330,7 +6558,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6346,7 +6575,8 @@
     "major_appearances": 14,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6392,7 +6622,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6424,7 +6655,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6440,7 +6672,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6471,7 +6704,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6487,7 +6721,8 @@
     "major_appearances": 16,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6503,7 +6738,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6565,7 +6801,8 @@
     "major_appearances": 13,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -6642,7 +6879,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6658,7 +6896,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6688,7 +6927,9 @@
     "major_championships": 0,
     "major_appearances": 2,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6764,7 +7005,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6856,7 +7098,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6902,7 +7145,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6963,7 +7207,8 @@
     "major_appearances": 19,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -6978,7 +7223,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7024,7 +7271,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7055,7 +7304,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7071,7 +7321,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7087,7 +7338,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7118,7 +7370,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7256,7 +7509,8 @@
     "major_appearances": 13,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7302,7 +7556,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -7333,7 +7588,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -7348,7 +7604,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7378,7 +7636,9 @@
     "major_championships": 0,
     "major_appearances": 2,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7394,7 +7654,8 @@
     "major_appearances": 14,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7410,7 +7671,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7426,7 +7688,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7442,7 +7705,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7458,7 +7722,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7474,7 +7739,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7506,7 +7772,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7538,7 +7805,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7630,7 +7898,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7646,7 +7915,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7677,7 +7947,8 @@
     "major_appearances": 8,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7753,7 +8024,8 @@
     "major_appearances": 17,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7769,7 +8041,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -7830,7 +8103,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7861,7 +8135,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7877,7 +8152,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7893,7 +8169,8 @@
     "major_appearances": 10,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -7909,7 +8186,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7955,7 +8233,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7971,7 +8250,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -7987,7 +8267,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -8018,7 +8299,8 @@
     "major_appearances": 11,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -8049,7 +8331,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8080,7 +8363,8 @@
     "major_appearances": 17,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8096,7 +8380,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8127,7 +8412,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8143,7 +8429,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8158,7 +8445,9 @@
     "major_championships": 0,
     "major_appearances": 1,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8219,7 +8508,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8282,7 +8572,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8297,7 +8588,9 @@
     "major_championships": 0,
     "major_appearances": 8,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8328,7 +8621,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8344,7 +8638,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8420,7 +8715,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8512,7 +8808,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8544,7 +8841,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8560,7 +8858,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8605,7 +8904,9 @@
     "major_championships": 0,
     "major_appearances": 3,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8621,7 +8922,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8667,7 +8969,8 @@
     "major_appearances": 10,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8683,7 +8986,8 @@
     "major_appearances": 10,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8699,7 +9003,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8715,7 +9020,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8731,7 +9037,8 @@
     "major_appearances": 12,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8747,7 +9054,8 @@
     "major_appearances": 8,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8778,7 +9086,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8824,7 +9133,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8870,7 +9180,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8917,7 +9228,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8963,7 +9275,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -8994,7 +9307,8 @@
     "major_appearances": 5,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9010,7 +9324,8 @@
     "major_appearances": 11,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9041,7 +9356,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9118,7 +9434,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9134,7 +9451,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9165,7 +9483,8 @@
     "major_appearances": 9,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9195,7 +9514,9 @@
     "major_championships": 0,
     "major_appearances": 2,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9211,7 +9532,8 @@
     "major_appearances": 6,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9257,7 +9579,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9273,7 +9596,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9320,7 +9644,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9336,7 +9661,8 @@
     "major_appearances": 8,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9367,7 +9693,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9383,7 +9710,8 @@
     "major_appearances": 8,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9414,7 +9742,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -9430,7 +9759,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9477,7 +9807,8 @@
     "major_appearances": 7,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9493,7 +9824,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9509,7 +9841,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9524,7 +9857,9 @@
     "major_championships": 1,
     "major_appearances": 11,
     "difficulties": [
-      "normal"
+      "normal",
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9540,7 +9875,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9617,7 +9953,8 @@
     "major_appearances": 17,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9663,7 +10000,8 @@
     "major_appearances": 8,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9694,7 +10032,8 @@
     "major_appearances": 11,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9710,7 +10049,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9726,7 +10066,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9787,7 +10128,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9834,7 +10176,8 @@
     "major_appearances": 15,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": false,
     "is_enabled": true
@@ -9896,7 +10239,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9928,7 +10272,8 @@
     "major_appearances": 1,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9944,7 +10289,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9960,7 +10306,8 @@
     "major_appearances": 4,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -9991,7 +10338,8 @@
     "major_appearances": 2,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -10007,7 +10355,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -10023,7 +10372,8 @@
     "major_appearances": 3,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
@@ -10039,7 +10389,8 @@
     "major_appearances": 11,
     "difficulties": [
       "normal",
-      "easy"
+      "easy",
+      "beginner"
     ],
     "is_active": true,
     "is_enabled": true
